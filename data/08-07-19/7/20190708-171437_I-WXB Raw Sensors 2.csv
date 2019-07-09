@@ -1,5 +1,4 @@
 timestamp,magCalib,accCalib,gyrCalib,sysCalib,accX,accY,accZ,gyrX,gyrY,gyrZ
-timestamp,magCalib,accCalib,gyrCalib,sysCalib,accX,accY,accZ,gyrX,gyrY,gyrZ
 0.06551802158355713,3,3,3,2,-9.43,2.02,-1.5,0.02,0,0.04
 0.06551802158355713,3,3,3,2,-9.43,2.02,-1.5,0.02,0,0.04
 0.0855180025100708,3,3,3,2,-9.44,2.07,-1.6,0.13,0.02,0.03
